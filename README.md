@@ -14,9 +14,8 @@
 
 - 📫 How to reach me **shivanishinde8383@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/19jBB13kTNdHXl3pCPITXaXn9pqghxXp1/view?usp=sharing](https://drive.google.com/file/d/19jBB13kTNdHXl3pCPITXaXn9pqghxXp1/view?usp=sharing)
 
-- ⚡ Fun fact **Data analysts are like modern-day detectives, deciphering stories hidden within data. They use data as their evidence and statistical tools as their magnifying glasses to uncover valuable insights and trends, helping organizations make informed decisions. 🔍📊🕵️‍♂️**
+- ⚡ Fun fact    **Data analysts are like modern-day detectives, deciphering stories hidden within data. They use data as their evidence and statistical tools as their magnifying glasses to uncover valuable insights and trends, helping organizations make informed decisions. 🔍📊🕵️‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
