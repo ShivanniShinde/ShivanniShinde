@@ -1,4 +1,4 @@
-![logo](https://cdn-images-1.medium.com/v2/resize:fit:1600/format:gif/1*A5mRQbs04WyJsnqGMJKhCg.gif)
+
 <h1 align="center">Hi 👋, I'm Shivanni Shinde</h1>
 <h3 align="center">A passionate Data Anlayst from India</h3>
 
