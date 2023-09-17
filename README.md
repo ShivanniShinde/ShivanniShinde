@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://github.com/ShivanniShinde/ShivanniShinde/raw/main/github.gif.gif" alt="Centered Image">
+</div>
 <h1 align="center">Hi 👋, I'm Shivanni Shinde</h1>
 <h3 align="center">A passionate Data Anlayst from India</h3>
 
