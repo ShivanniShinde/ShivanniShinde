@@ -1,0 +1,165 @@
+1694451952740	geckodriver	INFO	Listening on 127.0.0.1:60774
+1694451955824	mozrunner::runner	INFO	Running command: "C:\\Users\\91982\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debugging- ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91982\\AppData\\Local\\Temp\\rust_mozprofilen2NyhI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694451956698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694451956847	Marionette	INFO	Listening on port 60785
+WebDriver BiDi listening on ws://127.0.0.1:60775
+Read port: 60785
+1694451957140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60775/devtools/browser/c66189d4-3a35-4b3c-9b74-c510962dba75
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cHcu3EGdo_M2vyRVVDr4aifYAmzuFrNOMQiPLv8ePBs.js line 2 > eval line 2699 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC, line 115: Script terminated by timeout at:
+Oa@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:115:437
+fp@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:331:519
+Xv@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:372:689
+pF/<@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:509:153
+aa.yk/<@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:460:126
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:459:420
+
+1694452058716	Marionette	INFO	Stopped listening on port 60785
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694452108385	geckodriver	INFO	Listening on 127.0.0.1:60890
+1694452111423	mozrunner::runner	INFO	Running command: "C:\\Users\\91982\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debugging- ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91982\\AppData\\Local\\Temp\\rust_mozprofileFcxnY2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694452111787	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694452111925	Marionette	INFO	Listening on port 60900
+WebDriver BiDi listening on ws://127.0.0.1:60891
+Read port: 60900
+1694452112175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60891/devtools/browser/62642177-46b8-46c4-86ed-bf619e4a3128
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cHcu3EGdo_M2vyRVVDr4aifYAmzuFrNOMQiPLv8ePBs.js line 2 > eval line 1538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cHcu3EGdo_M2vyRVVDr4aifYAmzuFrNOMQiPLv8ePBs.js line 2 > eval line 6865 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3m8HFB-ShPtDzcYempcQY_ASUwv-AHBHVawPPC3Nvm0.js line 2 > eval line 5257 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694452129116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452130751	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1694452162177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452162933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452163679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452164424	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452165177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452165910	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452166652	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452167392	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452178391	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452189251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452200192	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452211071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452221976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452232836	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452243720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452254651	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1694452265559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC, line 461: Script terminated by timeout at:
+aa.oh@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:461:89
+get@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:459:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:459:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:459:412
+
+1694452272606	Marionette	INFO	Stopped listening on port 60900
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694889348729	geckodriver	INFO	Listening on 127.0.0.1:62675
+1694889351838	mozrunner::runner	INFO	Running command: "C:\\Users\\91982\\.cache\\selenium\\firefox\\win64\\117.0.1\\firefox.exe" "--marionette" "--remote-debuggin ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91982\\AppData\\Local\\Temp\\rust_mozprofileKkZZat"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694889352842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694889352985	Marionette	INFO	Listening on port 62686
+Read port: 62686
+WebDriver BiDi listening on ws://127.0.0.1:62676
+1694889353118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62676/devtools/browser/b4d56f77-b475-43f2-a726-a9fa5b9a082c
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D38i8ocviMyns63bFlxz04547CGgVcdJsS8VZS_5djY.js line 2 > eval line 491 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC, line 457: Script terminated by timeout at:
+get@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:457:115
+stop@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:457:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:457:412
+
+1694892166550	Marionette	INFO	Stopped listening on port 62686
+Dynamically enable window occlusion 1
