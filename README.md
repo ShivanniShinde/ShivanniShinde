@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivannishinde&label=Profile%20views&color=0e75b6&style=flat" alt="shivannishinde" /> </p>
 
-- 🔭 I’m currently working on **Stock Anlysis**
-
 - 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **Python ,SQL, excel , PowerBi ,Machine Learning**
