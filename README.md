@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivannishinde&label=Profile%20views&color=0e75b6&style=flat" alt="shivannishinde" /> </p>
 
-- 🌱 I’m currently working as  ** Senior Data Analysis**
+- 🌱 I’m currently working as  ** Senior Data Engineer**
 
 - 💬 Ask me about **dbt, Snowflake , Apache Superset ,Python ,SQL, excel , PowerBi ,Machine Learning**
 
